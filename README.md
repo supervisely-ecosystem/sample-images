@@ -17,3 +17,4 @@ Requirements
 - operation can be applied multiple times for different datasets with different settings
 - stop app manually
 - do not forget to copy images metadata
+- random or sequential sample
